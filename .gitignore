@@ -1,0 +1,35 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Local app state
+data/
+
+# Python cache and virtual environments
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Accidental pip redirection files from local setup
+=*
+
+# Personal launchers with absolute local paths
+启动论文精读助手.bat
