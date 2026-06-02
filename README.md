@@ -21,6 +21,16 @@
 - **Export to Notion**: Generates markdown files with YAML front matter, ready for import
 - **Resume Support**: Automatic checkpoint saves allow resuming interrupted analysis
 
+### 📸 Screenshots
+
+**Initial Setup Interface**
+
+![Setup Interface](screenshots/setup-interface.png)
+
+**Working Interface with Real-time Analysis**
+
+![Working Interface](screenshots/working-interface.png)
+
 ### 📋 8-Section Note Structure
 
 1. **Paper Metadata** (title, authors, venue, year, DOI)
@@ -155,6 +165,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **引用验证**：通过 CrossRef API 验证文献信息，交叉核验数值准确性
 - **导出至 Notion**：生成带 YAML Front Matter 的 Markdown，可直接粘贴到 Notion
 - **断点续传**：自动保存进度，中断后可从上次完成的段落继续
+
+### 📸 界面截图
+
+**初始配置界面**
+
+![配置界面](screenshots/setup-interface.png)
+
+**实时分析工作界面**
+
+![工作界面](screenshots/working-interface.png)
 
 ### 📋 8 段式笔记结构
 
